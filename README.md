@@ -1,2 +1,2 @@
-# Ionic3PhaserParallax
-Ionic 3 Phaser implementation for demo purpose
+This is just for demo purpose. Kindly ignore if you find it in search results as it can be deleted.
+
